@@ -1,0 +1,7 @@
+<resources>
+    <attr name="themeColor" format="color" />
+
+    <string-array name="xposedscope">
+        <item>com.tencent.mobileqq</item>
+    </string-array>
+</resources>

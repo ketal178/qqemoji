@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QEmoji</string>
+    <string name="res_inject_success">注入资源成功</string>
+</resources>
