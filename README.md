@@ -1,6 +1,6 @@
 [![license](https://img.shields.io/github/license/ketal178/QEmoji.svg)](https://opensource.org/licenses/MIT)
 
-[![GitHub release](https://img.shields.io/github/release/ferredoxin/QNotified.svg)](https://github.com/ferredoxin/QNotified/releases/latest)
+[![GitHub release](https://img.shields.io/github/release/ketal178/QEmoji.svg)](https://github.com/ketal178/QEmoji/releases/latest)
 
 QEmoji是一个旨在提升QQ表情功能的模块
 
