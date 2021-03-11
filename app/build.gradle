@@ -23,7 +23,7 @@ android {
     }
 
     aaptOptions {
-        additionalParameters '--allow-reserved-package-id', '--package-id', '0x63'
+        additionalParameters '--allow-reserved-package-id', '--package-id', '0x11'
     }
 
     kotlinOptions.jvmTarget = "1.8"
